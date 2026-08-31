@@ -1,6 +1,6 @@
 # DevOps FastAPI Lab
 
-![Prévia visual sanitizada do projeto](../assets/devops-fastapi.svg)
+![Prévia visual sanitizada do projeto](../assets/devops-fastapi.webp)
 ## Problema
 
 Uma API demonstrativa só é uma boa prova técnica quando também pode ser testada, observada, implantada e recuperada de forma reproduzível.

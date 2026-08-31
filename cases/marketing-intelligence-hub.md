@@ -1,6 +1,6 @@
 # Marketing Intelligence Hub
 
-![Prévia visual sanitizada do projeto](../assets/marketing-hub.svg)
+![Prévia visual sanitizada do projeto](../assets/marketing-hub.webp)
 ## Problema
 
 Conhecimento obtido de vídeos, documentos e experiências de campanhas costuma ficar disperso, sem proveniência, critérios de uso ou histórico de revisão.
