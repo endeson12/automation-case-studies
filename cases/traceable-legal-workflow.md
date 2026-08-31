@@ -1,5 +1,6 @@
 # Traceable Legal Workflow
 
+![Prévia visual sanitizada do projeto](../assets/legal-workflow.svg)
 ## Problema
 
 Fluxos jurídicos fragmentados dificultam relacionar documentos, fatos, pendências, tarefas e fontes sem perder rastreabilidade.

@@ -1,5 +1,6 @@
 # Financial Document Automation
 
+![Prévia visual sanitizada do projeto](../assets/financial-automation.svg)
 ## Problema
 
 Documentos financeiros recebidos em formatos diferentes exigem leitura, classificação, extração de campos e conferência antes de alimentar o controle operacional.

@@ -1,5 +1,6 @@
 # Geo Intelligence API
 
+![Prévia visual sanitizada do projeto](../assets/geo-intelligence.svg)
 ## Problema
 
 Responder consultas de proximidade, cobertura radial e presença de equipamentos em territórios com contratos espaciais explícitos e dados rastreáveis.
